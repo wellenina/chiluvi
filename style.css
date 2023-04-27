@@ -112,6 +112,7 @@ a {
 
 .navbar .right {
     display: flex;
+    align-items: center;
 }
 
 .navbar a {
